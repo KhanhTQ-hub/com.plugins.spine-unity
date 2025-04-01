@@ -1,0 +1,14 @@
+{
+  "name": "com.plugins.spine-unity",
+  "version": "4.2.81-pre.2",
+  "displayName": "com.plugins.spine-unity",
+  "description": "The spine-unity runtime is a Unity plugin supporting playback and manipulation of animations created with Spine.",
+  "author": {
+    "name": "ktgame",
+    "email": "khanhquang0912qh@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
